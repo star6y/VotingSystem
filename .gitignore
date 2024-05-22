@@ -1,0 +1,20 @@
+# .o files
+*.o
+
+# ignore .py files
+*.py
+
+# ignore .txt files
+*.txt
+
+*.out
+
+# ignore the git ignore
+# *.gitignore
+
+# main object
+main
+
+UnitTests
+
+SystemTests
