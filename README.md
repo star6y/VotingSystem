@@ -8,9 +8,9 @@ src/
 testing/  
 buglist.pdf
 
-## Changes from Project 01
-- We updated CPL and OPL to support multiple files.
-- We implemented a new type of vote called MPO (Multiple Popularity Only). This also supports multiple files.
+## Changes 
+- Updated CPL and OPL to support multiple files.
+- Implemented a new type of vote called MPO (Multiple Popularity Only). This also supports multiple files.
 
 ### How to Run this Program
 1. go into the `Project1/src` directory
