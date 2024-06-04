@@ -54,16 +54,3 @@ void TieBreaker::breakTies(int numPeople, int numSeats) {
 
   std::cout << "Tie winners(s): " << tieBreakerResult << "\n\n";
 }
-
-
-
-// pre condition is that there are 2 or more people who are competing for 1 or more seats.
-
-// No test for the first for loop, since the num of iterations is determined in the code
-// Test the nested for loop
-
-// Test the second for loop with the num of candidates
-
-// Test the thrid for loop, with the num of sesats
-
-// Test for the returned string is empty
